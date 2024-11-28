@@ -68,4 +68,5 @@ endmodule
 ![image](https://github.com/user-attachments/assets/f5491fef-ac77-47a5-82c6-1353d1378c07)
 
 **RESULTS**
+
 Program for JK flipflops was verified in quartus using Verilog programming.
